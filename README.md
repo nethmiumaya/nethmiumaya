@@ -13,22 +13,6 @@
 - 📫 **Contact Me**: umayagk@gmail.com  
 - 💡 **Interests**: Exploring new technologies, building innovative solutions, and working on full-stack projects.  
 
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="www.linkedin.com/in/nethmiumayagunasekara" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-   <a href="https://discord.com/channels/@me" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-</a>
-
-  </a>
-</p>
-
----
-
 I can't directly extract the text from the image you uploaded, but I can generate the same kind of "Tech Stack" layout in Markdown/HTML with icons. Here's a similar section for your tech stack:
 
 ---
