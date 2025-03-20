@@ -13,8 +13,7 @@
 - 📫 **Contact Me**: umayagk@gmail.com  
 - 💡 **Interests**: Exploring new technologies, building innovative solutions, and working on full-stack projects.  
 
-I can't directly extract the text from the image you uploaded, but I can generate the same kind of "Tech Stack" layout in Markdown/HTML with icons. Here's a similar section for your tech stack:
-
+I am a creative and inquisitive professional with a passion for continuous learning and knowledge sharing. I thrive on exploring new perspectives, solving complex problems, and identifying meaningful connections. Collaborating with others and embracing challenges drive my growth and improvement every day.
 ---
 ### 🛠️ Technical Expertise
 
